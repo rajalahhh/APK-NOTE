@@ -1,0 +1,2 @@
+rootProject.name = "INI APLIKASI RAJA"
+include ':app'
